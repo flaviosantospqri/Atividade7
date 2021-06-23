@@ -1,0 +1,23 @@
+#lista{
+    display: flex;
+    justify-content: center;
+
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0%;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+
+}
+a:hover{
+    color: aqua;
+}
